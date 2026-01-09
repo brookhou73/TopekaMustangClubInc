@@ -1,0 +1,57 @@
+﻿@model EmailQueue
+@{
+    ViewData["Title"] = "Contact Us";
+}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-91PQPSZMK8"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-91PQPSZMK8');
+</script>
+<div class="container-fluid">
+    <div class="card shadow border-0  mt-3">
+        <div class="card-header ml-0 py-1">
+            <div class="row mt-3 mb-5 text-center">
+                <h3>@ViewData["Title"]</h3>
+            </div>
+            <div class="row">
+                <div class="col">
+                    <div class="row heading_color">
+                        <h4>TOPEKA MUSTANG CLUB INC.</h4>
+                    </div>
+
+                    <p>
+                        The primary function of the TMC is to provide owners and
+                        supporters of the Ford Mustang an atmosphere of camaraderie
+                        and a place for members to show off their Mustangs at local and
+                        national car show events, cruise-ins, and learn all about their
+                        Mustang. All of this within a family-friendly environment. 
+                        We have something for everyone to enjoy.
+                    </p>
+                    <p>
+                        <b>Topeka Mustang Club Inc.</b><br />
+                        PO Box 1423<br />
+                        Topeka, KS 66601<br />
+                    </p>
+                    <p><b>Email: </b><a class="WrapBreak" href="mailto:topekamustangclubinc@gmail.com">topekamustangclubinc@gmail.com</a></p>
+                    <br />
+
+                </div>
+            </div>
+           
+        </div>
+    </div>
+
+</div>
+
+@if (ViewBag.Message != null)
+{
+    <script type="text/javascript">
+        window.onload = function () {
+            alert("@ViewBag.Message");
+        };
+    </script>
+}

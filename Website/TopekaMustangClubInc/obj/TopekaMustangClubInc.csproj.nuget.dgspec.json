@@ -50,88 +50,25 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNet.WebApi.Client": {
+            "Azure.Communication.Email": {
               "target": "Package",
-              "version": "[6.0.0, )"
+              "version": "[1.0.1, )"
             },
-            "Microsoft.EntityFrameworkCore.Sqlite": {
+            "DocumentFormat.OpenXml": {
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[3.1.0, )"
             },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Microsoft.Office.Interop.Excel": {
               "target": "Package",
-              "version": "[8.0.5, )"
+              "version": "[15.0.4795.1001, )"
             },
-            "Microsoft.Extensions.ApiDescription.Client": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
+            "Newtonsoft.Json": {
               "target": "Package",
-              "version": "[10.0.0-preview.4.25258.110, )"
+              "version": "[13.0.3, )"
             },
-            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
-              "include": "None",
+            "OfficeOpenXml.Core.ExcelPackage": {
               "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "MvcPagedList.Core": {
-              "target": "Package",
-              "version": "[3.2.0, )"
-            },
-            "NSwag.ApiDescription.Client": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[14.4.0, )"
-            },
-            "RestSharp": {
-              "target": "Package",
-              "version": "[112.1.1-alpha.0.4, )"
-            },
-            "Rotativa.AspNetCore": {
-              "target": "Package",
-              "version": "[1.4.0, )"
-            },
-            "Select.HtmlToPdf.NetCore": {
-              "target": "Package",
-              "version": "[25.1.0, )"
-            },
-            "Serilog.AspNetCore": {
-              "target": "Package",
-              "version": "[8.0.0, )"
-            },
-            "Serilog.Sinks.MSSqlServer": {
-              "target": "Package",
-              "version": "[8.2.1-dev-00131, )"
-            },
-            "System.Drawing.Common": {
-              "target": "Package",
-              "version": "[10.0.0-preview.4.25258.110, )"
-            },
-            "System.ServiceModel.Duplex": {
-              "target": "Package",
-              "version": "[6.0.*, )"
-            },
-            "System.ServiceModel.Federation": {
-              "target": "Package",
-              "version": "[8.1.2, )"
-            },
-            "System.ServiceModel.Http": {
-              "target": "Package",
-              "version": "[8.1.2, )"
-            },
-            "System.ServiceModel.NetTcp": {
-              "target": "Package",
-              "version": "[8.1.2, )"
-            },
-            "System.ServiceModel.Security": {
-              "target": "Package",
-              "version": "[6.0.*, )"
-            },
-            "bootstrap": {
-              "target": "Package",
-              "version": "[5.3.7, )"
+              "version": "[1.0.0, )"
             }
           },
           "imports": [

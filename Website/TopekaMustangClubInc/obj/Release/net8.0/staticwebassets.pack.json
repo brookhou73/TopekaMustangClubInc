@@ -5,6 +5,70 @@
       "PackagePath": "staticwebassets\\TopekaMustangClubInc.bundle.scp.css"
     },
     {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\2000MustangLogo.jpg",
+      "PackagePath": "staticwebassets\\Images\\2000MustangLogo.jpg"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\2000MustangLogo_v2.jpg",
+      "PackagePath": "staticwebassets\\Images\\2000MustangLogo_v2.jpg"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\80sMustangLogo.jpg",
+      "PackagePath": "staticwebassets\\Images\\80sMustangLogo.jpg"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\80sMustangLogo_v2.jpg",
+      "PackagePath": "staticwebassets\\Images\\80sMustangLogo_v2.jpg"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\82WhiteLakesMallCarShow.jpg",
+      "PackagePath": "staticwebassets\\Images\\82WhiteLakesMallCarShow.jpg"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\90sMustangLogo.jpg",
+      "PackagePath": "staticwebassets\\Images\\90sMustangLogo.jpg"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\90sMustangLogo_v2.jpg",
+      "PackagePath": "staticwebassets\\Images\\90sMustangLogo_v2.jpg"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\Ford.png",
+      "PackagePath": "staticwebassets\\Images\\Ford.png"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\MCA-Logo_Transparent.png",
+      "PackagePath": "staticwebassets\\Images\\MCA-Logo_Transparent.png"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\facebook.png",
+      "PackagePath": "staticwebassets\\Images\\facebook.png"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\military_tribute.png",
+      "PackagePath": "staticwebassets\\Images\\military_tribute.png"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\mustang7.jpg",
+      "PackagePath": "staticwebassets\\Images\\mustang7.jpg"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\pdf.jpg",
+      "PackagePath": "staticwebassets\\Images\\pdf.jpg"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\tmci_logo.png",
+      "PackagePath": "staticwebassets\\Images\\tmci_logo.png"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\usa_flag.jpg",
+      "PackagePath": "staticwebassets\\Images\\usa_flag.jpg"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\Images\\wren.jpg",
+      "PackagePath": "staticwebassets\\Images\\wren.jpg"
+    },
+    {
       "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -149,6 +213,14 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_lux.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap_lux.css"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_sandstone.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap_sandstone.css"
+    },
+    {
       "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
@@ -243,6 +315,18 @@
     {
       "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\pdf\\Registration_Form.pdf",
+      "PackagePath": "staticwebassets\\pdf\\Registration_Form.pdf"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\pdf\\TMC_ByLaws.pdf",
+      "PackagePath": "staticwebassets\\pdf\\TMC_ByLaws.pdf"
+    },
+    {
+      "Id": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\pdf\\TMC_Membership_Application_v2.pdf",
+      "PackagePath": "staticwebassets\\pdf\\TMC_Membership_Application_v2.pdf"
     },
     {
       "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.TopekaMustangClubInc.Microsoft.AspNetCore.StaticWebAssets.props",

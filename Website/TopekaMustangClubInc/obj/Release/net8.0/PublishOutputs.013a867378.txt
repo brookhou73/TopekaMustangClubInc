@@ -5,3 +5,13 @@ C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0
 C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\TopekaMustangClubInc.deps.json
 C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\TopekaMustangClubInc.runtimeconfig.json
 C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\TopekaMustangClubInc.pdb
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\Azure.Communication.Email.dll
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\Azure.Core.dll
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\DocumentFormat.OpenXml.dll
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\DocumentFormat.OpenXml.Framework.dll
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\Microsoft.Bcl.AsyncInterfaces.dll
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\Microsoft.Office.Interop.Excel.dll
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\OfficeOpenXml.Core.ExcelPackage.dll
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\System.IO.Packaging.dll
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\System.Memory.Data.dll
