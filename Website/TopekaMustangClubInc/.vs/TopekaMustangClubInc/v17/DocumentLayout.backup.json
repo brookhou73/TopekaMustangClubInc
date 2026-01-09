@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AECD6F09-1C16-4142-A160-B4F64904F58F}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECD6F09-1C16-4142-A160-B4F64904F58F}|TopekaMustangClubInc.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECD6F09-1C16-4142-A160-B4F64904F58F}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\topekamustangclubinc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AECD6F09-1C16-4142-A160-B4F64904F58F}|TopekaMustangClubInc.csproj|solutionrelative:topekamustangclubinc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECD6F09-1C16-4142-A160-B4F64904F58F}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECD6F09-1C16-4142-A160-B4F64904F58F}|TopekaMustangClubInc.csproj|solutionrelative:middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECD6F09-1C16-4142-A160-B4F64904F58F}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\areas\\admin\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AECD6F09-1C16-4142-A160-B4F64904F58F}|TopekaMustangClubInc.csproj|solutionrelative:areas\\admin\\views\\home\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AECD6F09-1C16-4142-A160-B4F64904F58F}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AECD6F09-1C16-4142-A160-B4F64904F58F}|TopekaMustangClubInc.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 19,
           "Children": [
             {
               "$type": "Bookmark",
@@ -70,6 +91,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TopekaMustangClubInc",
+              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\TopekaMustangClubInc.csproj",
+              "RelativeDocumentMoniker": "TopekaMustangClubInc.csproj",
+              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\TopekaMustangClubInc.csproj",
+              "RelativeToolTip": "TopekaMustangClubInc.csproj",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB8AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-09T04:02:04.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T04:00:15.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Areas\\Admin\\Views\\Home\\Error.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Admin\\Views\\Home\\Error.cshtml",
+              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Areas\\Admin\\Views\\Home\\Error.cshtml",
+              "RelativeToolTip": "Areas\\Admin\\Views\\Home\\Error.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-09T03:59:26.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T03:59:17.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowBUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-09T03:37:31.379Z",
+              "EditorCaption": ""
             }
           ]
         }
