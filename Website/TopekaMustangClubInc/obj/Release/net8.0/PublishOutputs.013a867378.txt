@@ -1,0 +1,7 @@
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\TopekaMustangClubInc.exe
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\TopekaMustangClubInc.dll
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\TopekaMustangClubInc.deps.json
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\TopekaMustangClubInc.runtimeconfig.json
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Release\net8.0\PubTmp\Out\TopekaMustangClubInc.pdb
