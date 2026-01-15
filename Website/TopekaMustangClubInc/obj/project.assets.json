@@ -4930,23 +4930,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\terry.brookhouser\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\brook\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\TopekaMustangClubInc.csproj",
+      "projectUniqueName": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\TopekaMustangClubInc.csproj",
       "projectName": "TopekaMustangClubInc",
-      "projectPath": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\TopekaMustangClubInc.csproj",
-      "packagesPath": "C:\\Users\\terry.brookhouser\\.nuget\\packages\\",
-      "outputPath": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\obj\\",
+      "projectPath": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\TopekaMustangClubInc.csproj",
+      "packagesPath": "C:\\Users\\brook\\.nuget\\packages\\",
+      "outputPath": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\terry.brookhouser\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\brook\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\",
+  "WorkspaceRootPath": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|d:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|d:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|d:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\home\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\home\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:views\\home\\calendar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -22,8 +22,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 17,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -34,15 +38,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
               "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
               "$type": "Bookmark",
@@ -86,11 +86,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -101,24 +101,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Calendar.cshtml",
-              "DocumentMoniker": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Calendar.cshtml",
+              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Calendar.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Calendar.cshtml",
-              "ToolTip": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Calendar.cshtml",
+              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Calendar.cshtml",
               "RelativeToolTip": "Views\\Home\\Calendar.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-15T21:06:27.022Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-15T21:06:27.022Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACgAAAAAAAAAAAAAADIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAC4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-01-15T21:00:18.336Z",
               "EditorCaption": ""
