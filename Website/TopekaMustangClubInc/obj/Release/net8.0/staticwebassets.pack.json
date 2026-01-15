@@ -213,6 +213,10 @@
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
+      "Id": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_cosmos.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap_cosmos.css"
+    },
+    {
       "Id": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_lux.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap_lux.css"
     },

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "zCkJHPUHongdyAs8dXWpQGzCxqivK/En4PapPAvXXno=",
+  "Hash": "ZaBCfHrfv+F6L3VAesMy8St69jgRWEtzTO8+4aHtbjI=",
   "Source": "TopekaMustangClubInc",
   "BasePath": "_content/TopekaMustangClubInc",
   "Mode": "Default",
@@ -566,6 +566,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_cosmos.css",
+      "SourceId": "TopekaMustangClubInc",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\",
+      "BasePath": "_content/TopekaMustangClubInc",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap_cosmos.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_cosmos.css"
     },
     {
       "Identity": "D:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap_lux.css",
