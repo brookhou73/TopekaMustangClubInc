@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TopekaMustangClubInc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3db2daa12d74d6d41faa6e73414a0fc488883350")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dfc72dcaebfa0138ea6ac2e8a17d9e0952e63690")]
 [assembly: System.Reflection.AssemblyProductAttribute("TopekaMustangClubInc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TopekaMustangClubInc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

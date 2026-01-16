@@ -32,7 +32,14 @@ namespace TopekaMustangClubInc.Controllers
             return View();
         }
 
+        [HttpGet]
         public IActionResult History()
+        {
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Mission()
         {
             return View();
         }
