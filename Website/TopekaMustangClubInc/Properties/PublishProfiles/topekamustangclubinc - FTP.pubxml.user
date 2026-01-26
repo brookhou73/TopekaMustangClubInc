@@ -8,15 +8,15 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAoYZTez2cA0+JnIUj9xgBawAAAAACAAAAAAAQZgAAAAEAACAAAACLkaxZUMo4mGy7nhNrUdee8JsUMk4nP4I7j7hH0vmQqAAAAAAOgAAAAAIAACAAAAAwsQ7oFqaYfIkH0oZwlGD5KOOzUP6+x/1Lit7oWaOE3IAAAAAM7bXUmKYxZaWqNID1p2z3Ac7o+g9vnUc5Di+qoYn5ziACm0Dpym09GVYzOh44lDQ572rHeT2acjj5NyQWS22YN99Mko76JXr5O1gPYYPm8jQyK67EVnXHY1/RmsHPcE0pwV1TIs0UFaVh4sUAr+OwITC0am1GMv4IrVKNZHIgjEAAAADg8djkYd5txrb6CCcT4WhPCOOYgC4ALplG4P5ea2Zx67jtHASyriCzz8J8LiVicPF11JiP1X8hUahIVIh7Bv6K</EncryptedPassword>
     <_PublishTargetUrl>ftps://waws-prod-dm1-151.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
-    <History>True|2026-01-16T19:59:51.0923046Z||;</History>
+    <History>True|2026-01-26T00:44:57.6765683Z||;False|2026-01-25T18:43:22.7488488-06:00||;False|2026-01-25T18:42:41.8520388-06:00||;False|2026-01-25T18:42:22.4814599-06:00||;False|2026-01-25T18:41:56.7114383-06:00||;True|2026-01-25T18:35:42.9641110-06:00||;False|2026-01-25T18:35:04.2377399-06:00||;True|2026-01-25T18:33:34.4313378-06:00||;False|2026-01-25T18:33:04.4542591-06:00||;False|2026-01-25T18:32:33.7730307-06:00||;True|2026-01-25T18:30:52.3364438-06:00||;False|2026-01-25T18:30:19.3645056-06:00||;True|2026-01-16T13:59:51.0923046-06:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
     <File Include="appsettings.Development.json">
-      <publishTime>01/14/2026 16:27:42</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="appsettings.json">
-      <publishTime>01/14/2026 16:27:42</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="Azure.Communication.Email.dll">
       <publishTime>08/18/2023 12:48:00</publishTime>
@@ -49,274 +49,277 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/08/2021 11:45:54</publishTime>
     </File>
     <File Include="TopekaMustangClubInc.deps.json">
-      <publishTime>01/16/2026 13:56:56</publishTime>
+      <publishTime>01/25/2026 18:44:46</publishTime>
     </File>
     <File Include="TopekaMustangClubInc.dll">
-      <publishTime>01/16/2026 13:56:56</publishTime>
+      <publishTime>01/25/2026 18:44:46</publishTime>
     </File>
     <File Include="TopekaMustangClubInc.exe">
-      <publishTime>01/16/2026 13:56:56</publishTime>
+      <publishTime>01/25/2026 18:44:46</publishTime>
     </File>
     <File Include="TopekaMustangClubInc.pdb">
-      <publishTime>01/16/2026 13:56:56</publishTime>
+      <publishTime>01/25/2026 18:44:46</publishTime>
     </File>
     <File Include="TopekaMustangClubInc.runtimeconfig.json">
-      <publishTime>01/16/2026 13:56:56</publishTime>
+      <publishTime>01/25/2026 18:28:23</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>01/16/2026 13:57:48</publishTime>
+      <publishTime>01/25/2026 18:44:47</publishTime>
     </File>
     <File Include="wwwroot/css/site.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/favicon.ico">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/Images/2000MustangLogo.jpg">
       <publishTime>01/14/2026 16:27:43</publishTime>
     </File>
     <File Include="wwwroot/Images/2000MustangLogo_v2.jpg">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>09/18/2021 16:47:34</publishTime>
     </File>
     <File Include="wwwroot/Images/80sMustangLogo.jpg">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>09/18/2021 16:44:04</publishTime>
     </File>
     <File Include="wwwroot/Images/80sMustangLogo_v2.jpg">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>09/18/2021 16:46:29</publishTime>
     </File>
     <File Include="wwwroot/Images/82WhiteLakesMallCarShow.jpg">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>09/20/2021 18:02:18</publishTime>
     </File>
     <File Include="wwwroot/Images/90sMustangLogo.jpg">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>09/18/2021 16:43:42</publishTime>
     </File>
     <File Include="wwwroot/Images/90sMustangLogo_v2.jpg">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>09/18/2021 16:47:02</publishTime>
     </File>
     <File Include="wwwroot/Images/facebook.png">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>08/08/2025 15:29:08</publishTime>
     </File>
     <File Include="wwwroot/Images/Ford.png">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>10/19/2020 18:59:18</publishTime>
     </File>
     <File Include="wwwroot/Images/MCA-Logo_Transparent.png">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>10/19/2020 18:59:18</publishTime>
     </File>
     <File Include="wwwroot/Images/military_tribute.png">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>09/20/2021 18:18:47</publishTime>
     </File>
     <File Include="wwwroot/Images/mustang7.jpg">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>10/19/2020 18:59:18</publishTime>
     </File>
     <File Include="wwwroot/Images/nav_tmci_logo.png">
-      <publishTime>01/16/2026 13:45:24</publishTime>
+      <publishTime>01/15/2026 16:10:22</publishTime>
     </File>
     <File Include="wwwroot/Images/pdf.jpg">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>08/08/2025 15:29:08</publishTime>
     </File>
     <File Include="wwwroot/Images/tmci_logo.png">
-      <publishTime>01/15/2026 15:12:25</publishTime>
+      <publishTime>01/15/2026 15:54:54</publishTime>
     </File>
     <File Include="wwwroot/Images/usa_flag.jpg">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>09/20/2021 18:55:16</publishTime>
     </File>
     <File Include="wwwroot/Images/wren.jpg">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>06/13/2023 21:27:22</publishTime>
     </File>
     <File Include="wwwroot/js/site.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap_cosmos.css">
-      <publishTime>01/15/2026 14:57:11</publishTime>
+      <publishTime>01/15/2026 15:54:54</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap_lux.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>08/08/2025 15:29:09</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/css/bootstrap_sandstone.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>08/08/2025 15:29:09</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.js.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/bootstrap/LICENSE">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/dist/additional-methods.min.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/dist/jquery.validate.min.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery-validation/LICENSE.md">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery/dist/jquery.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery/dist/jquery.min.js">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery/dist/jquery.min.map">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:03</publishTime>
     </File>
     <File Include="wwwroot/lib/jquery/LICENSE.txt">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:04</publishTime>
     </File>
     <File Include="wwwroot/pdf/Registration_Form.pdf">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>05/09/2023 21:10:08</publishTime>
     </File>
     <File Include="wwwroot/pdf/TMC_ByLaws.pdf">
-      <publishTime>01/14/2026 16:27:44</publishTime>
+      <publishTime>10/19/2020 19:03:18</publishTime>
+    </File>
+    <File Include="wwwroot/pdf/TMC_Membership Application_v3.pdf">
+      <publishTime>01/25/2026 16:03:25</publishTime>
     </File>
     <File Include="wwwroot/pdf/TMC_Membership_Application_v2.pdf">
-      <publishTime>01/14/2026 16:27:44</publishTime>
+      <publishTime>02/10/2021 08:34:29</publishTime>
     </File>
     <File Include="wwwroot/TopekaMustangClubInc.styles.css">
-      <publishTime>01/14/2026 16:27:43</publishTime>
+      <publishTime>01/08/2026 22:19:38</publishTime>
     </File>
   </ItemGroup>
 </Project>
