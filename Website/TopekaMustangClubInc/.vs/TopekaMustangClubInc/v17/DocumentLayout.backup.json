@@ -5,10 +5,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:views\\home\\contactus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -88,22 +84,10 @@
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAHsAAAAAAAAAAAAwwI0AAABAAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAE0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-26T00:21:17.818Z",
+              "WhenOpened": "2026-02-15T01:29:28.141Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ContactUs.cshtml",
-              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\ContactUs.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\ContactUs.cshtml",
-              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\ContactUs.cshtml",
-              "RelativeToolTip": "Views\\Home\\ContactUs.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-26T00:20:34.74Z"
             }
           ]
         }
