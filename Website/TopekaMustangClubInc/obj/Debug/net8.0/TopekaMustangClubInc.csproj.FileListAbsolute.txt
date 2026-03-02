@@ -16,11 +16,6 @@ C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\T
 C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\TopekaMustangClubInc.sourcelink.json
 C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\staticwebassets.build.json
 C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\staticwebassets.development.json
-C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\staticwebassets\msbuild.TopekaMustangClubInc.Microsoft.AspNetCore.StaticWebAssets.props
-C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\staticwebassets\msbuild.build.TopekaMustangClubInc.props
-C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TopekaMustangClubInc.props
-C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TopekaMustangClubInc.props
-C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\staticwebassets.pack.json
 C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\scopedcss\bundle\TopekaMustangClubInc.styles.css
 C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\scopedcss\projectbundle\TopekaMustangClubInc.bundle.scp.css
@@ -84,3 +79,12 @@ D:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\r
 D:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\TopekaMustangClubInc.pdb
 D:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\TopekaMustangClubInc.genruntimeconfig.cache
 D:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\ref\TopekaMustangClubInc.dll
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\bin\Debug\net8.0\TopekaMustangClubInc.staticwebassets.endpoints.json
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\swae.build.ex.cache
+C:\MyGitHub\TopekaMustangClubInc\Website\TopekaMustangClubInc\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
