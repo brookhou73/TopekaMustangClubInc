@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\home\\newsletter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:views\\home\\newsletter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\home\\mission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:views\\home\\mission.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\home\\newsletter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:views\\home\\newsletter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 17,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,7 +86,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Mission.cshtml",
+              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Mission.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Mission.cshtml",
+              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Mission.cshtml",
+              "RelativeToolTip": "Views\\Home\\Mission.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABRAQAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-02T01:19:46.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Newsletter.cshtml",
               "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Newsletter.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Newsletter.cshtml",
@@ -95,13 +112,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAACkAAABKAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2026-02-26T19:34:49.039Z",
               "EditorCaption": ""

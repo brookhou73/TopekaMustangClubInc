@@ -8,7 +8,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <TimeStampOfAssociatedLegacyPublishXmlFile />
     <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAoYZTez2cA0+JnIUj9xgBawAAAAACAAAAAAAQZgAAAAEAACAAAACLkaxZUMo4mGy7nhNrUdee8JsUMk4nP4I7j7hH0vmQqAAAAAAOgAAAAAIAACAAAAAwsQ7oFqaYfIkH0oZwlGD5KOOzUP6+x/1Lit7oWaOE3IAAAAAM7bXUmKYxZaWqNID1p2z3Ac7o+g9vnUc5Di+qoYn5ziACm0Dpym09GVYzOh44lDQ572rHeT2acjj5NyQWS22YN99Mko76JXr5O1gPYYPm8jQyK67EVnXHY1/RmsHPcE0pwV1TIs0UFaVh4sUAr+OwITC0am1GMv4IrVKNZHIgjEAAAADg8djkYd5txrb6CCcT4WhPCOOYgC4ALplG4P5ea2Zx67jtHASyriCzz8J8LiVicPF11JiP1X8hUahIVIh7Bv6K</EncryptedPassword>
     <_PublishTargetUrl>ftps://waws-prod-dm1-151.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
-    <History>True|2026-03-02T00:13:26.8948381Z||;True|2026-02-20T11:30:51.9410962-06:00||;False|2026-02-20T11:30:33.6295337-06:00||;True|2026-02-20T11:26:15.0751648-06:00||;False|2026-02-20T11:25:57.0026564-06:00||;True|2026-02-20T11:23:20.7040478-06:00||;False|2026-02-20T11:23:01.9821882-06:00||;True|2026-02-20T10:32:36.7636040-06:00||;False|2026-02-20T10:32:02.4263128-06:00||;True|2026-02-14T19:37:15.4345534-06:00||;True|2026-01-25T18:44:57.6765683-06:00||;False|2026-01-25T18:43:22.7488488-06:00||;False|2026-01-25T18:42:41.8520388-06:00||;False|2026-01-25T18:42:22.4814599-06:00||;False|2026-01-25T18:41:56.7114383-06:00||;True|2026-01-25T18:35:42.9641110-06:00||;False|2026-01-25T18:35:04.2377399-06:00||;True|2026-01-25T18:33:34.4313378-06:00||;False|2026-01-25T18:33:04.4542591-06:00||;False|2026-01-25T18:32:33.7730307-06:00||;True|2026-01-25T18:30:52.3364438-06:00||;False|2026-01-25T18:30:19.3645056-06:00||;True|2026-01-16T13:59:51.0923046-06:00||;</History>
+    <History>True|2026-03-02T01:22:21.3735612Z||;False|2026-03-01T19:21:54.7404260-06:00||;True|2026-03-01T18:13:26.8948381-06:00||;True|2026-02-20T11:30:51.9410962-06:00||;False|2026-02-20T11:30:33.6295337-06:00||;True|2026-02-20T11:26:15.0751648-06:00||;False|2026-02-20T11:25:57.0026564-06:00||;True|2026-02-20T11:23:20.7040478-06:00||;False|2026-02-20T11:23:01.9821882-06:00||;True|2026-02-20T10:32:36.7636040-06:00||;False|2026-02-20T10:32:02.4263128-06:00||;True|2026-02-14T19:37:15.4345534-06:00||;True|2026-01-25T18:44:57.6765683-06:00||;False|2026-01-25T18:43:22.7488488-06:00||;False|2026-01-25T18:42:41.8520388-06:00||;False|2026-01-25T18:42:22.4814599-06:00||;False|2026-01-25T18:41:56.7114383-06:00||;True|2026-01-25T18:35:42.9641110-06:00||;False|2026-01-25T18:35:04.2377399-06:00||;True|2026-01-25T18:33:34.4313378-06:00||;False|2026-01-25T18:33:04.4542591-06:00||;False|2026-01-25T18:32:33.7730307-06:00||;True|2026-01-25T18:30:52.3364438-06:00||;False|2026-01-25T18:30:19.3645056-06:00||;True|2026-01-16T13:59:51.0923046-06:00||;</History>
     <LastFailureDetails />
   </PropertyGroup>
   <ItemGroup>
@@ -49,16 +49,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/08/2021 11:45:54</publishTime>
     </File>
     <File Include="TopekaMustangClubInc.deps.json">
-      <publishTime>03/01/2026 18:13:08</publishTime>
+      <publishTime>03/01/2026 19:22:09</publishTime>
     </File>
     <File Include="TopekaMustangClubInc.dll">
-      <publishTime>03/01/2026 18:13:07</publishTime>
+      <publishTime>03/01/2026 19:22:08</publishTime>
     </File>
     <File Include="TopekaMustangClubInc.exe">
-      <publishTime>03/01/2026 18:13:07</publishTime>
+      <publishTime>03/01/2026 19:22:09</publishTime>
     </File>
     <File Include="TopekaMustangClubInc.pdb">
-      <publishTime>03/01/2026 18:13:07</publishTime>
+      <publishTime>03/01/2026 19:22:08</publishTime>
     </File>
     <File Include="TopekaMustangClubInc.runtimeconfig.json">
       <publishTime>03/01/2026 18:13:08</publishTime>
@@ -67,7 +67,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/01/2026 18:13:11</publishTime>
     </File>
     <File Include="web.config">
-      <publishTime>03/01/2026 18:13:11</publishTime>
+      <publishTime>03/01/2026 19:22:09</publishTime>
     </File>
     <File Include="wwwroot/css/site.css">
       <publishTime>01/08/2026 22:19:03</publishTime>
