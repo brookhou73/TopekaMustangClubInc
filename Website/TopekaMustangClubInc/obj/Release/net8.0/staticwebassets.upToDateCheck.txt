@@ -2,6 +2,8 @@ wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\Images\2000MustangLogo.jpg
 wwwroot\Images\2000MustangLogo_v2.jpg
+wwwroot\Images\2026\Carshow.png
+wwwroot\Images\2026\TortillaJacks.png
 wwwroot\Images\80sMustangLogo.jpg
 wwwroot\Images\80sMustangLogo_v2.jpg
 wwwroot\Images\82WhiteLakesMallCarShow.jpg
@@ -81,5 +83,3 @@ wwwroot\lib\jquery\LICENSE.txt
 wwwroot\pdf\Registration_Form.pdf
 wwwroot\pdf\TMC_ByLaws.pdf
 wwwroot\pdf\TMC_Membership Application_v3.pdf
-wwwroot\Images\2026\Carshow.png
-wwwroot\Images\2026\TortillaJacks.png
