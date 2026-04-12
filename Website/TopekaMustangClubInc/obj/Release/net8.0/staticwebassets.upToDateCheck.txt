@@ -81,3 +81,5 @@ wwwroot\lib\jquery\LICENSE.txt
 wwwroot\pdf\Registration_Form.pdf
 wwwroot\pdf\TMC_ByLaws.pdf
 wwwroot\pdf\TMC_Membership Application_v3.pdf
+wwwroot\Images\2026\Carshow.png
+wwwroot\Images\2026\TortillaJacks.png

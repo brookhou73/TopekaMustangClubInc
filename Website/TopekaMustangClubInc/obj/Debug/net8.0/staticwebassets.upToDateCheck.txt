@@ -2,6 +2,8 @@ wwwroot\css\site.css
 wwwroot\favicon.ico
 wwwroot\Images\2000MustangLogo.jpg
 wwwroot\Images\2000MustangLogo_v2.jpg
+wwwroot\Images\2026\Carshow.png
+wwwroot\Images\2026\TortillaJacks.png
 wwwroot\Images\80sMustangLogo.jpg
 wwwroot\Images\80sMustangLogo_v2.jpg
 wwwroot\Images\82WhiteLakesMallCarShow.jpg
