@@ -56,7 +56,9 @@ namespace TopekaMustangClubInc.Controllers
         [HttpGet]
         public IActionResult Store()
         {
-            return View();
+            // Ensure you include the protocol (http:// or https://)
+            return Redirect("https://www.merchmadeforyou.com");
+            //return View();
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
