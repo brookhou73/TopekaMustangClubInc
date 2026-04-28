@@ -57,7 +57,7 @@ namespace TopekaMustangClubInc.Controllers
         public IActionResult Store()
         {
             // Ensure you include the protocol (http:// or https://)
-            return Redirect("https://www.merchmadeforyou.com");
+            return Redirect("https://www.storessimple.com/mm4u/groupproducts.php?prodgroup_id=41295&prodgroupbypass=true");
             //return View();
         }
 

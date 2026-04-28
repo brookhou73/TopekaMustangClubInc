@@ -9,10 +9,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 15,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,41 +82,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAHUAAAAAAAAAAAAswIUAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T23:38:11.057Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAswDsAAAA8AAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAA9wDsAAAB4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T23:37:44.121Z",
+              "WhenOpened": "2026-04-28T00:42:00.863Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAACEAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAcwGMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T23:35:48.163Z",
+              "WhenOpened": "2026-04-21T23:38:11.057Z",
               "EditorCaption": ""
             }
           ]
