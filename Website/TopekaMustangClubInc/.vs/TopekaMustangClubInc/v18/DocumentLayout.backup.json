@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|c:\\mygithub\\topekamustangclubinc\\website\\topekamustangclubinc\\views\\home\\newsletter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{428AA814-02DA-4D9F-B73E-B33D9447B257}|TopekaMustangClubInc.csproj|solutionrelative:views\\home\\newsletter.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -83,27 +79,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAA9wDsAAAB4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-28T00:42:00.863Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAFMAAAAAAAAAAAAcwGMAAAA9AAAAAAAAAA==",
+              "Title": "Newsletter.cshtml",
+              "DocumentMoniker": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Newsletter.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Newsletter.cshtml",
+              "ToolTip": "C:\\MyGitHub\\TopekaMustangClubInc\\Website\\TopekaMustangClubInc\\Views\\Home\\Newsletter.cshtml",
+              "RelativeToolTip": "Views\\Home\\Newsletter.cshtml",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAswBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-04-21T23:38:11.057Z",
+              "WhenOpened": "2026-06-06T01:52:35.389Z",
               "EditorCaption": ""
             }
           ]
